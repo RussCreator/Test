@@ -2,5 +2,8 @@
 
 using namespace std;
 
-int a = 0;
-int b = 10;
+int main() {
+	int a = 0;
+	int b = 10;
+	return 0;
+}
